@@ -1,6 +1,6 @@
 /********** Template CSS **********/
 :root {
-    --primary: #FE5D37;
+    --primary: rgb(255, 0, 0);
     --light: #FFF5F3;
     --dark: #103741;
 }
